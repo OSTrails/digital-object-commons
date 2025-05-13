@@ -1,0 +1,17 @@
+subject_id,subject_label,predicate_id,object_id,object_label,match_type,confidence
+schema:MediaObject,Multimedia,skos:closeMatch,https://vocabularies.coar-repositories.org/resource_types/c_c513/,image,,
+schema:DigitalDocument,Document,,,,,
+schema:ScholarlyArticle,Publication,skos:exactMatch,https://vocabularies.coar-repositories.org/resource_types/c_6501/,journal article,SSSOM:HumanCurated,
+coar:NHD0-W6SY,Questionnaire/survey,skos:closeMatch,https://vocabularies.coar-repositories.org/resource_types/NHD0-W6SY/,survey data,SSSOM:HumanCurated,
+schema:Dataset,Dataset,skos:exactMatch,https://vocabularies.coar-repositories.org/resource_types/c_ddb1/,dataset,SSSOM:HumanCurated,
+schema:ImageObject,Image,skos:closeMatch,https://vocabularies.coar-repositories.org/resource_types/c_c513/,image,SSSOM:HumanCurated,
+sio:SIO_000510.,Model,,,,SSSOM:HumanCurated,1
+coar2:c_ab20,Data management plan,skos:exactMatch,https://vocabularies.coar-repositories.org/resource_types/c_ab20/,data management plan,SSSOM:HumanCurated,1
+schema:DefinedTermSet,Terminology Artifact,,,,,
+obo:NCIT_C42753,Protocol or Workflow,,,,,
+coar2:c_1843,Other Object Type,skos:exactMatch,https://vocabularies.coar-repositories.org/resource_types/c_1843/,other,SSSOM:HumanCurated,
+schema:CreativeWork,Object Type Agnostic,,,,,
+FAIRsharing DOI tbc,Object Type Not Found,,,,,
+schema:PhysicalObject,Physical object/material,,,,SSSOM:HumanCurated,1
+schema:SoftwareSourceCode,Software Source Code,skos:exactMatch,https://vocabularies.coar-repositories.org/resource_types/QH80-2R4E/,source code,SSSOM:HumanCurated,
+schema:SoftwareApplication,Software Application,skos:closeMatch,https://vocabularies.coar-repositories.org/resource_types/c_5ce6/,software,SSSOM:HumanCurated,1
