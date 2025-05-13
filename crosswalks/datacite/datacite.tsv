@@ -1,7 +1,7 @@
 subject_id	subject_label	predicate_id	object_id	object_label	match_type	confidence
 schema:MediaObject	Multimedia					
 schema:DigitalDocument	Document					
-schema:ScholarlyArticle	Publication	skos:exactMatch	https://datacite-metadata-schema.readthedocs.io/en/4.5/appendices/appendix-1/resourceTypeGeneral/#journalarticle	Journal Article	SSSOM:HumanCurated	1
+schema:ScholarlyArticle	Publication	skos:closeMatch	https://datacite-metadata-schema.readthedocs.io/en/4.5/appendices/appendix-1/resourceTypeGeneral/#journalarticle	Journal Article	SSSOM:HumanCurated	1
 coar:NHD0-W6SY	Questionnaire/survey					
 schema:Dataset	Dataset	skos:exactMatch	https://datacite-metadata-schema.readthedocs.io/en/4.5/appendices/appendix-1/resourceTypeGeneral/#dataset	Dataset	SSSOM:HumanCurated	1
 schema:ImageObject	Image	skos:exactMatch	https://datacite-metadata-schema.readthedocs.io/en/4.5/appendices/appendix-1/resourceTypeGeneral/#image	Image	SSSOM:HumanCurated	1
@@ -11,7 +11,7 @@ schema:DefinedTermSet	Terminology Artifact
 obo:NCIT_C42753	Protocol or Workflow					
 coar2:c_1843	Other Object Type					
 schema:CreativeWork	Object Type Agnostic					
-	Object Type Not Found					
-schema:PhysicalObject	Physical object/material	skos:exactMatch	https://datacite-metadata-schema.readthedocs.io/en/4.5/appendices/appendix-1/resourceTypeGeneral/#physicalobject	Physical Object	SSSOM:HumanCurated	1
+FAIRsharing DOI tbd	Object Type Not Found					
+schema:PhysicalObject	Physical object/material	skos:closeMatch	https://datacite-metadata-schema.readthedocs.io/en/4.5/appendices/appendix-1/resourceTypeGeneral/#physicalobject	Physical Object	SSSOM:HumanCurated	1
 schema:SoftwareSourceCode	Software Source Code	skos:closeMatch	https://datacite-metadata-schema.readthedocs.io/en/4.5/appendices/appendix-1/resourceTypeGeneral/#software	Software		
 schema:SoftwareApplication	Software Application	skos:closeMatch	https://datacite-metadata-schema.readthedocs.io/en/4.5/appendices/appendix-1/resourceTypeGeneral/#software	Software	SSSOM:HumanCurated	1
