@@ -1,0 +1,15 @@
+--
+curie_map: # This contains the URLs prefixes used in the mapping file
+  skos: http://www.w3.org/2004/02/skos/core# 
+  sssom: https://w3id.org/sssom/             
+  schema: "http://schema.org/" 
+  coar: "http://purl.org/coar/resource_type/"
+  coar2: "https://vocabularies.coar-repositories.org/resource_types/"
+  sio: "http://semanticscience.org/resource/"
+  obo: "http://purl.obolibrary.org/obo/"
+license: https://creativecommons.org/publicdomain/zero/1.0/
+subject_documentation: 
+mapping_date: '2025-05-13'
+mapping_set_description: Mapping between OSTrails terms and COAR. 
+mapping_provider: https://orcid.org/0000-0002-7702-4495 
+mapping_set_id: https://w3id.org/ostrails/crosswalks/coar 
