@@ -11,7 +11,7 @@ Terminology Artifact,https://schema.org/DefinedTermSet
 Protocol or Workflow,http://purl.obolibrary.org/obo/NCIT_C42753
 Other Object Type,https://vocabularies.coar-repositories.org/resource_types/c_1843/
 Object Type Agnostic,https://schema.org/CreativeWork
-Object Type Not Found,Create FAIRsharing DOI tbd
+Object Type Not Found,https://fairsharing.org/FAIRsharing.NFOBJT
 Physical object/material,https://schema.org/IndividualProduct
 Software Source Code,https://schema.org/SoftwareSourceCode
 Software Application,https://schema.org/SoftwareApplication
